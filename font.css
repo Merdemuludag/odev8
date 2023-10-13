@@ -1,0 +1,46 @@
+body{
+    background-color: #E9ECEF;
+}
+.menu-color{
+    padding: 20px;
+    background-color: rgb(83, 83, 83);
+}
+.menu-icon{
+    height: 40px;
+    width: 40px; 
+    float: left;
+    margin-right: 10px;
+}
+a{
+    margin-left: 5px;
+    text-decoration: none;
+    color: white;
+    font-size: large;
+}
+a:hover{
+    text-decoration: none;
+    color: black;
+}
+.card{
+    margin-bottom: 15px;
+}
+.card-text{
+    text-align: center;
+    font-weight: bold;
+    color: white;
+}
+.anasayfa-yazi{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.baslik{
+    margin-top: 20px;
+    color: red;
+}
+li{
+    list-style-position: inside;
+}
+.hakkinda-yazi{
+    margin-left: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
